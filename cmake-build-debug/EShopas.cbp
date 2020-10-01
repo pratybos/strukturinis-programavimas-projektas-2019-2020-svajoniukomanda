@@ -82,6 +82,48 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Apmokejimas.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Apmokejimas.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/DuomenuBaze.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/DuomenuBaze.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Klientas.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Klientas.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Krepselis.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Krepselis.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Parduotuve.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Parduotuve.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Preke.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Preke.h">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Sandelys.cpp">
+			<Option target="EShopas"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/Sandelys.h">
+			<Option target="EShopas"/>
+		</Unit>
 		<Unit filename="C:/Users/Marius/CLionProjects/EShopas/main.cpp">
 			<Option target="EShopas"/>
 		</Unit>

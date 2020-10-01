@@ -89,19 +89,124 @@ CMakeFiles/EShopas.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\main.cpp -o CMakeFiles\EShopas.dir\main.cpp.s
 
+CMakeFiles/EShopas.dir/Preke.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Preke.cpp.obj: ../Preke.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EShopas.dir/Preke.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Preke.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Preke.cpp
+
+CMakeFiles/EShopas.dir/Preke.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Preke.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Preke.cpp > CMakeFiles\EShopas.dir\Preke.cpp.i
+
+CMakeFiles/EShopas.dir/Preke.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Preke.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Preke.cpp -o CMakeFiles\EShopas.dir\Preke.cpp.s
+
+CMakeFiles/EShopas.dir/Klientas.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Klientas.cpp.obj: ../Klientas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EShopas.dir/Klientas.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Klientas.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Klientas.cpp
+
+CMakeFiles/EShopas.dir/Klientas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Klientas.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Klientas.cpp > CMakeFiles\EShopas.dir\Klientas.cpp.i
+
+CMakeFiles/EShopas.dir/Klientas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Klientas.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Klientas.cpp -o CMakeFiles\EShopas.dir\Klientas.cpp.s
+
+CMakeFiles/EShopas.dir/Apmokejimas.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Apmokejimas.cpp.obj: ../Apmokejimas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/EShopas.dir/Apmokejimas.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Apmokejimas.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Apmokejimas.cpp
+
+CMakeFiles/EShopas.dir/Apmokejimas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Apmokejimas.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Apmokejimas.cpp > CMakeFiles\EShopas.dir\Apmokejimas.cpp.i
+
+CMakeFiles/EShopas.dir/Apmokejimas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Apmokejimas.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Apmokejimas.cpp -o CMakeFiles\EShopas.dir\Apmokejimas.cpp.s
+
+CMakeFiles/EShopas.dir/Sandelys.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Sandelys.cpp.obj: ../Sandelys.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/EShopas.dir/Sandelys.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Sandelys.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Sandelys.cpp
+
+CMakeFiles/EShopas.dir/Sandelys.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Sandelys.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Sandelys.cpp > CMakeFiles\EShopas.dir\Sandelys.cpp.i
+
+CMakeFiles/EShopas.dir/Sandelys.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Sandelys.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Sandelys.cpp -o CMakeFiles\EShopas.dir\Sandelys.cpp.s
+
+CMakeFiles/EShopas.dir/Krepselis.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Krepselis.cpp.obj: ../Krepselis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/EShopas.dir/Krepselis.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Krepselis.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Krepselis.cpp
+
+CMakeFiles/EShopas.dir/Krepselis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Krepselis.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Krepselis.cpp > CMakeFiles\EShopas.dir\Krepselis.cpp.i
+
+CMakeFiles/EShopas.dir/Krepselis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Krepselis.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Krepselis.cpp -o CMakeFiles\EShopas.dir\Krepselis.cpp.s
+
+CMakeFiles/EShopas.dir/DuomenuBaze.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/DuomenuBaze.cpp.obj: ../DuomenuBaze.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/EShopas.dir/DuomenuBaze.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\DuomenuBaze.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\DuomenuBaze.cpp
+
+CMakeFiles/EShopas.dir/DuomenuBaze.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/DuomenuBaze.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\DuomenuBaze.cpp > CMakeFiles\EShopas.dir\DuomenuBaze.cpp.i
+
+CMakeFiles/EShopas.dir/DuomenuBaze.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/DuomenuBaze.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\DuomenuBaze.cpp -o CMakeFiles\EShopas.dir\DuomenuBaze.cpp.s
+
+CMakeFiles/EShopas.dir/Parduotuve.cpp.obj: CMakeFiles/EShopas.dir/flags.make
+CMakeFiles/EShopas.dir/Parduotuve.cpp.obj: ../Parduotuve.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/EShopas.dir/Parduotuve.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EShopas.dir\Parduotuve.cpp.obj -c C:\Users\Marius\CLionProjects\EShopas\Parduotuve.cpp
+
+CMakeFiles/EShopas.dir/Parduotuve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EShopas.dir/Parduotuve.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Marius\CLionProjects\EShopas\Parduotuve.cpp > CMakeFiles\EShopas.dir\Parduotuve.cpp.i
+
+CMakeFiles/EShopas.dir/Parduotuve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EShopas.dir/Parduotuve.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Marius\CLionProjects\EShopas\Parduotuve.cpp -o CMakeFiles\EShopas.dir\Parduotuve.cpp.s
+
 # Object files for target EShopas
 EShopas_OBJECTS = \
-"CMakeFiles/EShopas.dir/main.cpp.obj"
+"CMakeFiles/EShopas.dir/main.cpp.obj" \
+"CMakeFiles/EShopas.dir/Preke.cpp.obj" \
+"CMakeFiles/EShopas.dir/Klientas.cpp.obj" \
+"CMakeFiles/EShopas.dir/Apmokejimas.cpp.obj" \
+"CMakeFiles/EShopas.dir/Sandelys.cpp.obj" \
+"CMakeFiles/EShopas.dir/Krepselis.cpp.obj" \
+"CMakeFiles/EShopas.dir/DuomenuBaze.cpp.obj" \
+"CMakeFiles/EShopas.dir/Parduotuve.cpp.obj"
 
 # External object files for target EShopas
 EShopas_EXTERNAL_OBJECTS =
 
 EShopas.exe: CMakeFiles/EShopas.dir/main.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Preke.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Klientas.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Apmokejimas.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Sandelys.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Krepselis.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/DuomenuBaze.cpp.obj
+EShopas.exe: CMakeFiles/EShopas.dir/Parduotuve.cpp.obj
 EShopas.exe: CMakeFiles/EShopas.dir/build.make
 EShopas.exe: CMakeFiles/EShopas.dir/linklibs.rsp
 EShopas.exe: CMakeFiles/EShopas.dir/objects1.rsp
 EShopas.exe: CMakeFiles/EShopas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable EShopas.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Marius\CLionProjects\EShopas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable EShopas.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\EShopas.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
